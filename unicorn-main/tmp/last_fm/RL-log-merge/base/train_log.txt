@@ -1,0 +1,60 @@
+Training epocch:100
+===========Test Turn===============
+Training 100 user tuples
+Training SR-turn@15: 0.4
+Training avg-turn: 12.22
+================================
+Training epocch:200
+===========Test Turn===============
+Training 100 user tuples
+Training SR-turn@15: 0.48
+Training avg-turn: 11.62
+================================
+Training epocch:300
+===========Test Turn===============
+Training 100 user tuples
+Training SR-turn@15: 0.47
+Training avg-turn: 12.21
+================================
+Training epocch:400
+===========Test Turn===============
+Training 100 user tuples
+Training SR-turn@15: 0.48
+Training avg-turn: 11.89
+================================
+Training epocch:500
+===========Test Turn===============
+Training 100 user tuples
+Training SR-turn@15: 0.5
+Training avg-turn: 11.58
+================================
+Training epocch:600
+===========Test Turn===============
+Training 100 user tuples
+Training SR-turn@15: 0.45
+Training avg-turn: 11.86
+================================
+Training epocch:700
+===========Test Turn===============
+Training 100 user tuples
+Training SR-turn@15: 0.5
+Training avg-turn: 11.46
+================================
+Training epocch:800
+===========Test Turn===============
+Training 100 user tuples
+Training SR-turn@15: 0.55
+Training avg-turn: 11.63
+================================
+Training epocch:900
+===========Test Turn===============
+Training 100 user tuples
+Training SR-turn@15: 0.55
+Training avg-turn: 11.07
+================================
+Training epocch:1000
+===========Test Turn===============
+Training 100 user tuples
+Training SR-turn@15: 0.59
+Training avg-turn: 11.22
+================================
