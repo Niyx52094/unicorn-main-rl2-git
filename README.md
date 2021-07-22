@@ -1,5 +1,7 @@
 # unicorn-main-rl2-git
 
+* 数据保存在'tmp' 文件夹里面
+
 ## Meta rl2:
 
 ### LAST_FM
